@@ -1,1 +1,1 @@
-# Stock_sentimental-Analysis-machine-learning
+# Stock_sentimental-analysis-machine-learning
